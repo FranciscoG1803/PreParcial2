@@ -12,11 +12,11 @@ int main(void){
         n--;
     }*/
 
-    /*do
+    do
     {
         cout<<n<<endl;
         n++;
-    } while (n <= 5);*/
+    } while (n <= 5);
     
     
     for (int i = 0; i <= 5; i++)
